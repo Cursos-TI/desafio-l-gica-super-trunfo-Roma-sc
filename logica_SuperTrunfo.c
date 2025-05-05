@@ -99,3 +99,7 @@ int main() {
     } else{
         printf("Codigo 2 tem maior população.\n");
     }
+
+    return 0;
+
+}
